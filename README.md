@@ -1,4 +1,7 @@
-# api documentation for  [heroku-client (v3.0.2)](https://github.com/heroku/node-heroku-client#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-heroku-client.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-heroku-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-heroku-client.svg)](https://travis-ci.org/npmdoc/node-npmdoc-heroku-client)
+# npmdoc-heroku-client
+
+#### basic api documentation for  [heroku-client (v3.0.2)](https://github.com/heroku/node-heroku-client#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-heroku-client.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-heroku-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-heroku-client.svg)](https://travis-ci.org/npmdoc/node-npmdoc-heroku-client)
+
 #### A wrapper for the Heroku v3 API
 
 [![NPM](https://nodei.co/npm/heroku-client.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/heroku-client)
@@ -91,7 +94,8 @@
     "scripts": {
         "test": "nyc ava && standard"
     },
-    "version": "3.0.2"
+    "version": "3.0.2",
+    "bin": {}
 }
 ```
 
